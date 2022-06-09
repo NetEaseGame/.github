@@ -8,10 +8,9 @@ NetEase (NASDAQ: NTES) is a leading Internet company in China that includes inde
 
 ## OpenSource Projects
 
-| Product | Description |
+| Projects | Description |
 | :---: |--- |
 |![Airtest Logo](./resources/airtest-logo.png)<br/>[Airtest](https://github.com/AirtestProject/Airtest)|Cross-Platform UI Automation Framework for Games and Apps！[Repo](https://github.com/AirtestProject/Airtest)   [Website](https://airtest.netease.com/)|
-|![Poco Logo](./resources/poco-logo.png)<br/>[Poco](https://github.com/AirtestProject/Poco)|A cross-engine UI automation framework. Unity3D/cocos2dx-*/Android native APP/iOS native APP/(Other engines SDK)/...[Repo](https://github.com/AirtestProject/Poco)   [Website](https://airtest.netease.com/)|
 
 ## Contact Us
 
